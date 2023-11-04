@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+.netflix{
+    width: 150px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+}
